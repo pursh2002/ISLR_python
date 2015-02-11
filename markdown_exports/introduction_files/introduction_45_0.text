@@ -1,0 +1,1 @@
+Index([u'mpg', u'cylinders', u'displacement', u'horsepower', u'weight', u'acceleration', u'year', u'origin', u'name'], dtype='object')

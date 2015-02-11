@@ -1,0 +1,1 @@
+Index([u'crim', u'zn', u'indus', u'chas', u'nox', u'rm', u'age', u'dis', u'rad', u'tax', u'ptratio', u'b', u'lstat', u'medv'], dtype='object')
