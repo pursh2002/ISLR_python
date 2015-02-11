@@ -47,7 +47,7 @@
     }
     .text_cell_render h5 {
         font-weight: 300;
-        font-size: 22pt;
+        font-size: 20pt;
         color: #4057A1;
         font-style: italic;
         margin-bottom: .5em;
@@ -61,16 +61,16 @@
 </style>
 <script>
     MathJax.Hub.Config({
-                        TeX: {
+                           TeX: {
                            extensions: ["AMSmath.js"]
                            },
-                tex2jax: {
-                    inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-                    displayMath: [ ['$$','$$'], ["\\[","\\]"] ]
-                },
-                displayAlign: 'center', // Change this to 'center' to center equations.
-                "HTML-CSS": {
-                    styles: {'.MathJax_Display': {"margin": 4}}
+                           tex2jax: {
+                               inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+                               displayMath: [ ['$$','$$'], ["\\[","\\]"] ]
+                           },
+                           displayAlign: 'center', // Change this to 'center' to center equations.
+                           "HTML-CSS": {
+                               styles: {'.MathJax_Display': {"margin": 4}}
                 }
         });
 </script>
