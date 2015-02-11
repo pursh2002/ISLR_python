@@ -1,5 +1,5 @@
 
-# Introduction to NumPy, SciPy, Pandas and scikit-learn
+                # Introduction to NumPy, SciPy, Pandas and scikit-learn
 In ISLR, this lab is designed as an introduction to R language. Here, we will be
 using Python and NumPy.
 
@@ -18,7 +18,7 @@ TODO: add links to tutorials
 ## Basic commands
 
 Let's start with creating vectors.
-
+                
 
     import numpy as np
     x = np.array([1, 3, 2, 5])
